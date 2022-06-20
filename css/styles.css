@@ -77,6 +77,7 @@ p {
 .big-heading{
   colod:white;
   font-family: Montserrat;
+  margin-top: 25%;
 }
 
 /* Title Section */
@@ -97,8 +98,8 @@ p {
 .title-image {
 
   width: 60%;
-  position: absolute;
-  right: 30%;
+  position: relative;
+
 }
 
 /* Features Section */
